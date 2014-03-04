@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>47D57BB6-B2B9-4A2D-8C4F-869ACFAFC67F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NSDateFormatter_ISO_8601</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>04D1AB30-75E4-4803-BF65-9D588823C39C</key>
+		<string>https://github.com/clearbrian/NSDateFormatter_ISO_8601.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NSDateFormatter_ISO_8601/NSDateFormatter_ISO_8601.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>04D1AB30-75E4-4803-BF65-9D588823C39C</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/clearbrian/NSDateFormatter_ISO_8601.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>04D1AB30-75E4-4803-BF65-9D588823C39C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>04D1AB30-75E4-4803-BF65-9D588823C39C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NSDateFormatter_ISO_8601</string>
+		</dict>
+	</array>
+</dict>
+</plist>
