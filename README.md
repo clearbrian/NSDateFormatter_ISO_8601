@@ -1,7 +1,10 @@
-NSDateFormatter_ISO_8601 - Convert Date String in ISO_8601 Format to NSDate
+NSDateFormatter_ISO_8601
 ========================
 
+ Category on NSString to Convert Date String in ISO_8601 Format to NSDate
+ 
  Format string in ISO_8601 format
+ 
  Using
  
     [dateFormatter setDateFormat:@"yyyy-MM-dd'T'HH:mm:ss.SSSSSSSZZZZZ"];
