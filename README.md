@@ -17,6 +17,7 @@ NSDateFormatter_ISO_8601 -  Category on NSString to Convert Date String in ISO_8
  Should handle time zone correctly [+01:00]
  
  EXAMPLE
+ -------
  
  We had a token issued with a
  
@@ -52,14 +53,14 @@ NSDateFormatter_ISO_8601 -  Category on NSString to Convert Date String in ISO_8
  
  
  HANDLING 'T'
- 
+ ------------
  Items in single quotes arent parsed and are returned as is
  so 'T' always maps to 'T'
     
 
  
- TIMEZONE - Z Zulu time
- 
+ TIMEZONE - Z - Zulu time
+ ------------------------
     http://en.wikipedia.org/wiki/ISO_8601#Time_offsets_from_UTC
 
     FROM
