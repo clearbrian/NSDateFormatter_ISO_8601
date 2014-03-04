@@ -55,6 +55,9 @@
      tokenExpiry_:2014-04-01T11:19:40.0139887+01:00
      date_tokenExpiry:2014-04-01 10:19:40 +0000  << NOTE HOUR IS ONE BEHIND STRING
      
+     
+     Output the same regardless of date of device.
+     Set device date to April 2/ London - inside BST and same output
      */
     
     
