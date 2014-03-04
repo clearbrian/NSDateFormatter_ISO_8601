@@ -40,7 +40,9 @@ NSDateFormatter_ISO_8601
 
  
  start date
+ 
     IN :NSString:2014-03-04T11:19:40.0139887+00:00
+    
     OUT:  NSDate:2014-03-04 11:19:40 +0000
  
 
