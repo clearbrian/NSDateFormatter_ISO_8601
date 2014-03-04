@@ -3,19 +3,18 @@ NSDateFormatter_ISO_8601
 
  Category on NSString to Convert Date String in ISO_8601 Format to NSDate
  
- Format string in ISO_8601 format
- 
- Using
+ Use
  
     [dateFormatter setDateFormat:@"yyyy-MM-dd'T'HH:mm:ss.SSSSSSSZZZZZ"];
 
 
- 
- 2014-03-04T11:19:40.0139887+00:00
+ To convert
+
+    2014-03-04T11:19:40.0139887+00:00
  
  to an NSDate
  
- 2014-03-04 11:19:40 +0000
+    2014-03-04 11:19:40 +0000
  
  Should handle time zone correctly [+01:00]
  
